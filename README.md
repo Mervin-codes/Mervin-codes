@@ -1,5 +1,23 @@
 <div align="center">
 
+<!-- hero: monochrome ASCII portrait (types in) beside the extruded 3d ascii
+     wordmark (wipes in left-to-right, then rocks on its vertical axis).
+     widths are picked so both panels land at the same height.
+     portrait: python scripts/prep_photo.py <photo> && python scripts/make_ascii_svg.py
+     wordmark: WORDMARK_TEXT="Mervin-codes" python scripts/make_wordmark_svg.py --mode rock -->
+
+<h3><code>mervin@github ~ $ whoami</code></h3>
+
+<table>
+<tr>
+<td valign="top"><img src="./mervin-ascii.svg" width="370" alt="Mervin — ASCII portrait" /></td>
+<td valign="top"><img src="./wordmark.svg" width="490" alt="Mervin-codes — 3D ASCII wordmark" /></td>
+</tr>
+</table>
+
+<br>
+<br>
+
 <!-- Animated typing intro -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Mervin;AI+%26+Automation+Builder;Building+Ultron+Orb+%F0%9F%A4%96;Android+%2B+Termux+Native+Dev" alt="Typing SVG" />
 
@@ -40,6 +58,17 @@
 ![Termux](https://img.shields.io/badge/Termux-000000?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
+</div>
+
+---
+
+## 🖥️ Contribution Terminal
+
+<!-- animated contribution graph: real data, boxes reveal cell by cell,
+     regenerated daily by .github/workflows/update-profile-art.yml -->
+
+<div align="center">
+<img src="./contrib-heatmap.svg" width="820" alt="Mervin's GitHub contribution graph — auto-refreshed daily" />
 </div>
 
 ---
